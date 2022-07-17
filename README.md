@@ -158,12 +158,13 @@ Our Project Workflow is added to [this link](https://app.milanote.com/1N2f911lxm
 
 # Team
 
-Team Number - **5**
+Team - **Code3.0*
 
 - #### Team Members
-    - [Rishabh Kumar 2020IMT078](https://github.com/rish78)
-    - [Shreshth Goyal 2020IMT094](https://github.com/shreshthgoyal)
-    - [Kshitij Ayush 2020IMT047](https://github.com/kshitij-404)
+    - [Rishabh Kumar](https://github.com/rish78)
+    - [Shreshth Goyal](https://github.com/shreshthgoyal)
+    - [Kshitij Ayush](https://github.com/kshitij-404)
+    - [Shikhar Gupta](https://github.com/shikhar13012001)
 # 
 
 [contributors-shield]: https://img.shields.io/github/contributors/shreshthgoyal/QF.svg?style=for-the-badge
