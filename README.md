@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">ETH QF</h1>
+  <h1 align="center">Decentalised Quadratic Crowdfunding Platform</h1>
   <p align="center">
    We fund with the community.  For the community.
    <br />
@@ -153,19 +153,3 @@ Our Project Workflow is added to [this link](https://app.milanote.com/1N2f911lxm
 * We can have user profile system for project managers.
 * We can have a archive feature where we can show history of previous Matching Rounds.
 
-<div id="team" />
-<!-- CONTACT -->
-
-# Team
-
-Team - **Code3.0*
-
-- #### Team Members
-    - [Rishabh Kumar](https://github.com/rish78)
-    - [Shreshth Goyal](https://github.com/shreshthgoyal)
-    - [Kshitij Ayush](https://github.com/kshitij-404)
-    - [Shikhar Gupta](https://github.com/shikhar13012001)
-# 
-
-[contributors-shield]: https://img.shields.io/github/contributors/shreshthgoyal/QF.svg?style=for-the-badge
-[contributors-url]: https://github.com/shreshthgoyal/QF
